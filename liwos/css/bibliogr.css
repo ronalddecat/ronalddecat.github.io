@@ -1,0 +1,5 @@
+li.chapter {font-weight:normal;list-style-type: upper-roman;color:#0066CC} 
+li.subchapter {list-style-type: lower-roman;font-weight:normal;color:#0066CC} 
+li.biblio {font-style:italic;list-style:none}
+li.topic {list-style-type: decimal;;font-style:italic;color:#0066CC}
+ul.biblio {font-style:italic;list-style:none;font-size: 90%;}
