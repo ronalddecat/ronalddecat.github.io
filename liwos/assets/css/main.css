@@ -42,12 +42,12 @@ blockquote, q {
 }
 
 	q {quotes: "\201E" "\201D";}
-q:before {content: open-quote; font-weight: bold; font-family: Arial;} 
-q:after {content: close-quote; font-weight: bold; font-family: Arial;}
+q:before {content: open-quote; font-family: Arial;} 
+q:after {content: close-quote; font-family: Arial;}
 
 blockquote {quotes: "\201E" "\201D";} 
-blockquote:before {content: open-quote; font-weight: bold; font-family: Arial;} 
-blockquote:after {content: close-quote; font-weight: bold; font-family: Arial;} 
+blockquote:before {content: open-quote; font-family: Arial;} 
+blockquote:after {content: close-quote; font-family: Arial;} 
 /* font 'Arial' geeft de mooiste (gekrulde) aanhalingstekens */
 
 
