@@ -19,7 +19,7 @@ div.box h3
 ul.biblio, li.biblio {font-style: italic;list-style:none;}
 
 span 
-{color:red;}
+{color: hsl(0, 100%, 40%);}
 
 address, small
 {font-size:80%;color:green;}
