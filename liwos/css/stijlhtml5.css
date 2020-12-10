@@ -30,5 +30,4 @@ i:lang(la), cite:lang(la), dfn:lang(la)
 i:lang(grc), cite:lang(grc), dfn:lang(grc)
 {font-family:"Palatino Linotype", Palatino, serif;}
 
-abbr[title] {border-bottom: dotted 1px;}
-/* stippellijn onder afkorting in MS Explorer en Google Chrome; default bij Firefox */
+
